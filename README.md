@@ -1,6 +1,6 @@
 
 
-                                            PIZZA SALES (SQL QUEIRES)
+                         PIZZA SALES (SQL QUEIRES)
 
   KEY PERFORMANCE INDICATOR:
 
