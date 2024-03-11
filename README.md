@@ -1,4 +1,4 @@
-![image](https://github.com/krishna68akm/Krishnamoorthy/assets/162655570/d9c2dc55-710f-40c0-9a67-45cd4cfc7a24)# Krishnamoorthy
+
 
                                             PIZZA SALES (SQL QUEIRES)
 
